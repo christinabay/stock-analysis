@@ -9,10 +9,12 @@ The purpose of this analysis was to help Steve run a faster and more streamlined
 
 Stock performance between 2017 and 2018:
 2017 proved to be a much better year for the stocks selected than 2018. All stocks except TERP yielded positive returns. In 2018 however, all but two stocks (ENPH and RUN) yielded negative returns. See screenshots below.
+
 <img src="Resources/Screenshots for Readme/2017-results.png">
 <img src="Resources/Screenshots for Readme/2018-results.png">
 
 Execution times between original and refactored script: 
+
 2017 unrefactored: 0.297 seconds
 
 2017 refactored: 0.0625 seconds
