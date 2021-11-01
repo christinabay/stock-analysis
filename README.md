@@ -20,8 +20,8 @@ Execution times between original and refactored script:
 2018 refactored: 0.055 seconds
 2018 delta: 0.226 seconds
 <img src="Resources/Unrefactored-2017.png">
-<img src="Resources/Unrefactored-2018.png">
 <img src="Resources/Refactored-2017.png">
+<img src="Resources/Unrefactored-2018.png">
 <img src="Resources/Refactored-2018.png">
 
 For both run times (2017 and 2018), refactoring cut the run time by about 75%. That’s a considerable difference! 
