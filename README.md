@@ -24,6 +24,8 @@ Execution times between original and refactored script:
 2018 refactored: 0.055 seconds
 
 2018 Delta: 0.226 seconds
+
+
 <img src="Resources/Unrefactored-2017.png">
 <img src="Resources/Refactored-2017.png">
 <img src="Resources/Unrefactored-2018.png">
