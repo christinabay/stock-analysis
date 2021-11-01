@@ -1,11 +1,11 @@
-#Deliverable 2: Written Analysis of Results 
+# Deliverable 2: Written Analysis of Results 
 
-##Overview
+## Overview
 
 The purpose of this analysis was to help Steve run a faster and more streamlined report showing return data for the entire stock market in 2017 and 2018. The return data will tell Steve which stocks have yielded a positive or negative return over the timeframe selected. We’ve been asked to refactor the code to make the original run we performed faster.
 
 
-##Results
+## Results
 
 Stock performance between 2017 and 2018:
 2017 proved to be a much better year for the stocks selected than 2018. All stocks except TERP yielded positive returns. In 2018 however, all but two stocks (ENPH and RUN) yielded negative returns. See screenshots below.
@@ -26,7 +26,7 @@ Execution times between original and refactored script:
 
 For both run times (2017 and 2018), refactoring cut the run time by about 75%. That’s a considerable difference! 
 
-##Summary
+## Summary
 
 1. What are the advantages or disadvantages of refactoring code?
 Advantages of refactoring code include faster run time, and theoretically cleaner and more efficient code. With proper comments/notes, refactored code can be easier to read and update/maintain for another coder who may be working on it with you / after you. 
