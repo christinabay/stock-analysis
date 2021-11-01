@@ -14,11 +14,16 @@ Stock performance between 2017 and 2018:
 
 Execution times between original and refactored script: 
 2017 unrefactored: 0.297 seconds
+
 2017 refactored: 0.0625 seconds
+
 2017 Delta: 0.2345 seconds
+
 2018 unrefactored: 0.281 seconds
+
 2018 refactored: 0.055 seconds
-2018 delta: 0.226 seconds
+
+2018 Delta: 0.226 seconds
 <img src="Resources/Unrefactored-2017.png">
 <img src="Resources/Refactored-2017.png">
 <img src="Resources/Unrefactored-2018.png">
