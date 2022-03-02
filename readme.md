@@ -1,8 +1,10 @@
 # Deliverable 2: Written Analysis of Results 
 
+Software utilized: VBA
+
 ## Overview
 
-The purpose of this analysis was to help Steve run a faster and more streamlined report showing return data for the entire stock market in 2017 and 2018. The return data will tell Steve which stocks have yielded a positive or negative return over the timeframe selected. We’ve been asked to refactor the code to make the original run we performed faster.
+The purpose of this analysis was to help a colleague run a faster and more streamlined report showing return data for the entire stock market in 2017 and 2018. The return data will tell Steve which stocks have yielded a positive or negative return over the timeframe selected. We’ve been asked to refactor the code to make the original run we performed faster.
 
 
 ## Results
