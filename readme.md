@@ -1,6 +1,6 @@
 # Deliverable 2: Written Analysis of Results 
 
-Software utilized: VBA
+Software utilized: Microsoft Excel
 
 ## Overview
 
